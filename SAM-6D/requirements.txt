@@ -1,7 +1,7 @@
 torch==2.0.0
 torchvision==0.15.1
 fvcore
-xformers==0.0.18
+xformers==0.0.20
 torchmetrics==0.10.3
 blenderproc==2.6.1
 opencv-python
